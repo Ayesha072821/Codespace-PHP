@@ -1,0 +1,8 @@
+<?php
+$month_hightemp= array( "July-Aug" => 19, 'Jan-Feb' =>7);
+$month_lowtemp= array( 'July-Aug' => 19, 'Jan-Feb' =>7);
+echo "Average Temperature in Edinburgh <br>";
+echo "Month            High             Low<br>";
+echo "July-Aug         ".$month-hightemp['July-Aug'];
+
+?>
